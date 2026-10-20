@@ -4,6 +4,6 @@
 [Link do Projeto](https://github.com/sudosamm/exercicios-1inf/blob/main/projetos/projeto-03/readme.md) <br>
 
 Integrantes do grupo:
-- 
-- 
-- 
+- Miguel - HTML
+- Gabriel - CSS
+- Álvaro -
